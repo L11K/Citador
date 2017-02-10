@@ -31,10 +31,11 @@ Now that you got your token, to put it in the file, follow the steps below:
 3. Done, now you have the plugin installed and working..
 
 Any question, ask me on Discord: Nirewen`#9011`
+Translated by L11K `#5987`
 
 ###Known Bugs
 - [ ] Not possible to mention channels or users while citing/quoting ☹
 - [x] ~~If you press Shift + Enter the line won't break, it will send a message~~
 
 ###Preview
-![Citador in action](http://nirewen.s-ul.eu/1nTbSuas.gif)
+![Citador in action](http://nirewen.s-ul.eu/1nTbSuas.gif
